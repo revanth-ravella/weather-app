@@ -15,7 +15,10 @@ Weather Finder is a simple React Native application that allows users to check t
 - **City Weather**: Get accurate weather details for any city around the world.
 - **Temperature**: View the current temperature, weather description, and additional details.
 - **Graphical Representation**: Visualize temperature trends over the next few days with an interactive chart.
-
+## Additional Details
+-**APIs Used**
+-Open-Meteo API for 5-days forecast data.
+-OpenWeatherMap API for searching city and current weather data.
 ## How To Use
 
 1. Enter the desired city name in the input field.
