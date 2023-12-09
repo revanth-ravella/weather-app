@@ -27,3 +27,10 @@ Weather Finder is a simple React Native application that allows users to check t
 - React Native
 - Axios for API requests
 - Chart Kit for graphical representation
+
+## Installation
+
+Use the package manager [npm](https://www.npmjs.com/) to install Weather Finder App.
+
+```bash
+npm install
