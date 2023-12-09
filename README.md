@@ -29,8 +29,7 @@ Weather Finder is a simple React Native application that allows users to check t
 - Chart Kit for graphical representation
 
 ## Installation
-
-Use the package manager [npm](https://www.npmjs.com/) to install Weather Finder App.
-
+Use latest node version(21.1.0)
 ```bash
 npm install
+npx react-native run-android
